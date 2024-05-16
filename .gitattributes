@@ -1,0 +1,2 @@
+*.shaders linguist-detectable=false
+*.cginc linguist-detectable=false
